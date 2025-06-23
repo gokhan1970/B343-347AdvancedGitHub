@@ -13,6 +13,8 @@ public class MyClass {
 
     //t1
     public String string4 = "Bu techpro branch'inde olusturulmus bir string'dir.";
+    //t2
+    public String string5 = "Bu techpro branch'inde olusturulmus bir string'dir.";
 
 
 
