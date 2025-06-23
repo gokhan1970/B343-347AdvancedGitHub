@@ -16,7 +16,10 @@ public class MyClass {
     //t2
     public String string5 = "Bu techpro branch'inde olusturulmus bir string'dir.";
 
-
+    //t4
+    public String string6 = "Bu techpro branch'inde olusturulmus bir string'dir.";
+    //t5
+    public String string7 = "Bu techpro branch'inde olusturulmus bir string'dir.";
 
 
 }
