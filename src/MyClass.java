@@ -21,6 +21,9 @@ public class MyClass {
     //t5
     public String string7 = "Bu techpro branch'inde olusturulmus bir string'dir.";
 
+//t3
+    public  String string8 = " bu da string";
+
 
 }
 
