@@ -7,6 +7,16 @@ public class MyClass {
 
     //v3
     public String str3 = "daha yeni str";
+
+    //v3
+    public String str4 = "daha yeni str";
+
+    //t1
+    public String string4 = "Bu techpro branch'inde olusturulmus bir string'dir.";
+
+
+
+
 }
 
 
