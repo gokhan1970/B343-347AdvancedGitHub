@@ -20,6 +20,8 @@ public class MyClass {
     public String string6 = "Bu techpro branch'inde olusturulmus bir string'dir.";
     //t5
     public String string7 = "Bu techpro branch'inde olusturulmus bir string'dir.";
+    // v5
+    public String str8 = "bu yeni";
 
 
 }
