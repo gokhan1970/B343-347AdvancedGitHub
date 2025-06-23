@@ -23,6 +23,12 @@ public class MyClass {
     // v5
     public String str8 = "bu yeni";
 
+//t3
+    public  String string8 = " bu da string";
+
+    //t4
+    public  String string9 = " bu da yeni bir string";
+
 
 }
 
