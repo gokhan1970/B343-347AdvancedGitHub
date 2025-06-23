@@ -24,6 +24,9 @@ public class MyClass {
 //t3
     public  String string8 = " bu da string";
 
+    //t4
+    public  String string9 = " bu da yeni bir string";
+
 
 }
 
